@@ -1,5 +1,8 @@
 package include;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Trunk {
     Trunk prev;
     String str;

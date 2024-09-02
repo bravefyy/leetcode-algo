@@ -6,7 +6,8 @@
 
 package sfo_03_find_duplicate_numbers_in_an_array_s1;
 
-import include.*;
+import java.util.HashSet;
+import java.util.Set;
 
 // ===== Solution Code =====
 class Solution {
